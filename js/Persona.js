@@ -35,5 +35,5 @@ per1.saluda();
 let per2 = new Persona();
 per2.setEdad(86);
 per2.haceDeporte = true;
-// console.log(per2.getNombre());
-// per2.saluda();
+console.log(per2.getNombre());
+per2.saluda();
